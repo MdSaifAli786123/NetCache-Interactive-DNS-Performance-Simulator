@@ -1,5 +1,3 @@
-# NetCache-Interactive-DNS-Performance-Simulator
-
 # NetCache — Interactive DNS Performance Simulator
 
 An interactive **Computer Networks simulation platform** for studying how DNS caching and network conditions affect resolution performance.

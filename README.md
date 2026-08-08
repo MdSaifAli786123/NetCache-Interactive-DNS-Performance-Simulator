@@ -1082,3 +1082,9 @@ The central relationship is:
 > **How do DNS caching policies and network conditions affect resolver performance?**
 
 That single question ties the entire architecture, simulation, dashboard, and experimental evaluation together.
+
+<img width="1246" height="714" alt="image" src="https://github.com/user-attachments/assets/360024f5-c6f5-4c35-973e-7431069b7f2c" />
+
+<img width="754" height="505" alt="image" src="https://github.com/user-attachments/assets/1eb56ee5-ebc1-47d4-84e2-d3818ec6c0ca" />
+
+<img width="561" height="661" alt="image" src="https://github.com/user-attachments/assets/9e8a1dd1-fe81-450c-bf6a-f0a34af715b7" />
